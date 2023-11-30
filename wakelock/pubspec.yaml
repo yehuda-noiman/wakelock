@@ -20,7 +20,7 @@ dependencies:
   wakelock_web: ^0.4.0
   wakelock_windows:
     git:
-      url: "git@github.com:yehuda-noiman/wakelock.git"
+      url: "git@github.com:ycv005/wakelock.git"
       ref: "main"
       path: "wakelock_windows"
 
